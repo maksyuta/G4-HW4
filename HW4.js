@@ -139,4 +139,10 @@ switch(mathOperator){
         break;  
 }
 
-//8
+//9
+
+let meters = 32;
+
+if (meters >= 0) {
+    console.log( meters / 1000 +  '  Кілометри') 
+}
